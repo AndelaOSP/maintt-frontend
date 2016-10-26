@@ -1,8 +1,7 @@
 .home-header {
   position: relative;
   margin-top: -20px;
-  min-height: 750px;
-  /*padding-bottom: 50px;*/
+  height: 900px;
   text-align: center;
   color: #f8f8f8;
   background: url(assets/img/intro-bg.jpg) no-repeat center center;

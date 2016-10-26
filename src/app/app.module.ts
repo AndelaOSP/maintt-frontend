@@ -6,7 +6,7 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
-import rootRouter from './app.router.ts';
+import rootRouter from './app.router';
 
 @NgModule({
   declarations: [
@@ -22,4 +22,5 @@ import rootRouter from './app.router.ts';
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule {}

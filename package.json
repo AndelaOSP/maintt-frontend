@@ -9,7 +9,8 @@
     "test": "ng test --watch false",
     "pree2e": "webdriver-manager update",
     "e2e": "protractor",
-    "postinstall": "bower install"
+    "preinstall": "bower install",
+    "postinstall": "ng build"
   },
   "private": true,
   "dependencies": {

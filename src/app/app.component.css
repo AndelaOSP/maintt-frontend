@@ -1,12 +1,12 @@
 .navbar {
-  height: 70px;
+  height: 60px;
 }
 
 .navbar a span {
   margin-left: 40px;
   position: absolute;
   top: 20px;
-  font-size: 18pt;
+  font-size: 23pt;
   font-weight: bold;
   font-family: 'Bungee Hairline', cursive;
 }
