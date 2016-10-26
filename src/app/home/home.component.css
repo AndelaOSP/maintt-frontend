@@ -1,0 +1,35 @@
+.home-header {
+  position: relative;
+  margin-top: -20px;
+  min-height: 750px;
+  /*padding-bottom: 50px;*/
+  text-align: center;
+  color: #f8f8f8;
+  background: url(assets/img/intro-bg.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.home-message {
+  position: relative;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.home-message > h1 {
+  margin: 0;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+  font-size: 5em;
+  font-family: 'Bungee Hairline', cursive;
+}
+
+.home-divider {
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.home-message > h3 {
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+  font-family: 'Bungee Hairline', cursive;
+}
