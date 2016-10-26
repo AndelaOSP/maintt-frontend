@@ -17,7 +17,7 @@ before_install:
  - npm install -g angular-cli
  - npm install -g bower
 
- after_script:
+after_script:
   - cat ./coverage/lcov.info | ./node_modules/.bin/codacy-coverage
   - rm -rf ./coverage
 
