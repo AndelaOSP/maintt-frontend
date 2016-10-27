@@ -5,7 +5,11 @@ export class MainttPage {
     return browser.get('/');
   }
 
-  getParagraphText() {
+  getMessageText() {
     return element(by.css('app-root h1')).getText();
+  }
+
+  getCatchPhraseText() {
+    return element(by.css('app-root h3')).getText();
   }
 }

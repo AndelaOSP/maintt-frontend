@@ -8,6 +8,7 @@
 /node_modules
 /bower_components
 /lib
+/public
 
 # IDEs and editors
 /.idea
@@ -33,3 +34,5 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
+*.log
+.env
