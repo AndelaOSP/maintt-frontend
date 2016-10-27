@@ -23,13 +23,19 @@
     "core-js": "^2.4.1",
     "express": "^4.14.0",
     "express-http-proxy": "^0.10.1",
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-shell": "^0.5.2",
+    "require-dir": "^0.3.1",
     "rxjs": "5.0.0-beta.12",
     "ts-helpers": "^1.1.1",
     "zone.js": "^0.6.23",
     "require-dir": "^0.3.1",
     "gulp": "^3.9.1",
     "gulp-bower": "0.0.13",
-    "gulp-shell": "^0.5.2"
+    "gulp-shell": "^0.5.2",
+    "zone.js": "^0.6.23"
   },
   "devDependencies": {
     "@types/jasmine": "^2.2.30",
