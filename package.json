@@ -8,9 +8,7 @@
     "lint": "tslint \"src/**/*.ts\"",
     "test": "ng test --watch false",
     "pree2e": "webdriver-manager update",
-    "e2e": "protractor",
-    "preinstall": "bower install",
-    "postinstall": "ng build"
+    "e2e": "protractor"
   },
   "private": true,
   "dependencies": {
@@ -36,6 +34,7 @@
     "codelyzer": "1.0.0-beta.1",
     "dotenv": "^2.0.0",
     "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
     "gulp-shell": "^0.5.2",
     "jasmine-core": "2.4.1",
     "jasmine-spec-reporter": "2.5.0",
