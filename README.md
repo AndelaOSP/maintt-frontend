@@ -1,7 +1,5 @@
-[![gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AndelaOSP/maintt-frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![NPM version](https://img.shields.io/npm/v/maintt-frontend.svg?style=flat-square)](https://www.npmjs.com/package/maintt-frontend)
-[![Build](https://travis-ci.org/AndelaOSP/maintt-frontend.svg?branch=master)](https://travis-ci.org/AndelaOSP/maintt-frontend)
-[![codecov.io](https://codecov.io/github/AndelaOSP/maintt-frontend/coverage.svg?branch=master)](https://codecov.io/github/AndelaOSP/maintt-frontend?branch=master)
+[![Build](https://travis-ci.org/AndelaOSP/maintt-frontend.svg?branch=develop)](https://travis-ci.org/AndelaOSP/maintt-frontend)
+[![codecov.io](https://codecov.io/github/AndelaOSP/maintt-frontend/coverage.svg?branch=develop)](https://codecov.io/github/AndelaOSP/maintt-frontend?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 # Maintt
 
