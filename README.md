@@ -1,6 +1,8 @@
 [![Build](https://travis-ci.org/AndelaOSP/maintt-frontend.svg?branch=develop)](https://travis-ci.org/AndelaOSP/maintt-frontend)
 [![codecov.io](https://codecov.io/github/AndelaOSP/maintt-frontend/coverage.svg?branch=develop)](https://codecov.io/github/AndelaOSP/maintt-frontend?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6c5e61b2d6b04e95864c22a04d96623a)](https://www.codacy.com/app/AndelaOSP/maintt-frontend?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AndelaOSP/maintt-frontend&amp;utm_campaign=Badge_Grade)
+
 # Maintt
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.18.
