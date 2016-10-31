@@ -4,11 +4,8 @@ const nodemon = require('gulp-nodemon');
 
 gulp.task('nodemon', () => {
   nodemon({
-      script: 'index.js',
-      ext: 'js',
-      ignore: ['public/', 'node_modules/']
-    })
-    .on('restart', () => {
-      console.log('>> node restart');
-    });
+    script: 'index.js',
+    ext: 'js',
+    ignore: ['public/', 'node_modules/']
+  });
 });

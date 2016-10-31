@@ -16,7 +16,6 @@ app.get('/*', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(
-    `Listening on port ${port} in ${app.get('env')} mode`
-  );
+  let log = `Listening on port ${port} in ${app.get('env')} mode`
+  console.log(log);
 });
